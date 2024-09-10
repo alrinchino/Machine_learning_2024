@@ -3,8 +3,13 @@
 Курс "Введение в машинное обучение". В курсе расмотрены практические аспекты классических методов машинного обучения. 
 
 Что читать:
-- Хороший курс **математической теории машинного обучения** с видео и конспектами [К.В. Воронцов МФТИ](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29)
-- [Онлайн-учебник по машинному обучению](https://education.yandex.ru/handbook/ml)
+- [Курс К.В. Воронцова, МФТИ](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29)
+- [Онлайн-учебник по машинному обучению, МФТИ и Яндекс](https://education.yandex.ru/handbook/ml)
+- [Курс Е. Соколова, ВШЭ] (https://github.com/esokolov/ml-course-hse)
+- [Школа глубокого обучения МФТИ на Степике](https://stepik.org/org/dlschool)
+- - (https://t.me/deep_learning_school_news)
+  - (https://www.dlschool.org)
+  - (https://vk.com/dlschool_mipt)
 
 Книги разные:
 - [Введение в машинное обучение с помощью Python. Руководство для специалистов по работе с данными](https://www.ozon.ru/product/vvedenie-v-mashinnoe-obuchenie-s-pomoshchyu-python-rukovodstvo-dlya-spetsialistov-po-rabote-140891479/?gclid=Cj0KCQjwm9yJBhDTARIsABKIcGYQpWkVvvgHSqLxKZQrHxeiy7tnd4JtJVGMAZVf4qiqFYEd_v_Cij4aAqOREALw_wcB&sh=b6tA4YBT&utm_campaign=RF_Product_Shopping_Books_super&utm_medium=cpc&utm_source=google) 
