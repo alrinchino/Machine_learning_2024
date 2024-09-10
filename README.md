@@ -7,7 +7,7 @@
 - [Онлайн-учебник по машинному обучению, МФТИ и Яндекс](https://education.yandex.ru/handbook/ml)
 - [Курс Е. Соколова, ВШЭ](https://github.com/esokolov/ml-course-hse)
 - [Школа глубокого обучения МФТИ на Степике](https://stepik.org/org/dlschool)
-- - (https://t.me/deep_learning_school_news)
+  - (https://t.me/deep_learning_school_news)
   - (https://www.dlschool.org)
   - (https://vk.com/dlschool_mipt)
 
