@@ -7,6 +7,7 @@
 - [Рукописный учебник К. Воронцова](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf)
 - [Онлайн-учебник по машинному обучению, ШАД](https://education.yandex.ru/handbook/ml)
 - [Курс Е. Соколова, ВШЭ](https://github.com/esokolov/ml-course-hse)
+- [Видеокурс Р. Нейчева на YouTube](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZeq93ssEUaR47xhvs7IhJM)
 - [Школа глубокого обучения МФТИ на Степике](https://stepik.org/org/dlschool)
   - (https://t.me/deep_learning_school_news)
   - (https://www.dlschool.org)
@@ -24,4 +25,5 @@
 Платные курсы:
 - Курс [Машинное обучение и анализ данных](https://datasciencecourse.ru/)
 - [Математика для анализа данных](https://fpmi-edu.ru/math_course)
+- [Машинное обучение с BigData Team](https://bigdatateam.org/ru/machine-learning-course)
 
