@@ -3,7 +3,8 @@
 Курс "Введение в машинное обучение". В курсе расмотрены практические аспекты классических методов машинного обучения. 
 
 Что читать:
-- [Курс К.В. Воронцова, МФТИ](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29)
+- [Курс К. Воронцова, МФТИ](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29)
+- [Рукописный учебник К. Воронцова](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf)
 - [Онлайн-учебник по машинному обучению, МФТИ и Яндекс](https://education.yandex.ru/handbook/ml)
 - [Курс Е. Соколова, ВШЭ](https://github.com/esokolov/ml-course-hse)
 - [Школа глубокого обучения МФТИ на Степике](https://stepik.org/org/dlschool)
