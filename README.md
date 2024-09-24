@@ -29,9 +29,9 @@
 Книги разные:
 - [Ссылка на папку с книгами](https://disk.yandex.ru/d/CQjofNDRmpD2Fg)
 - [Введение в машинное обучение с помощью Python. Руководство для специалистов по работе с данными](https://www.ozon.ru/product/vvedenie-v-mashinnoe-obuchenie-s-pomoshchyu-python-rukovodstvo-dlya-spetsialistov-po-rabote-140891479/?gclid=Cj0KCQjwm9yJBhDTARIsABKIcGYQpWkVvvgHSqLxKZQrHxeiy7tnd4JtJVGMAZVf4qiqFYEd_v_Cij4aAqOREALw_wcB&sh=b6tA4YBT&utm_campaign=RF_Product_Shopping_Books_super&utm_medium=cpc&utm_source=google) 
-- необходимый математический минимум [Машинное обучение. Наука и искусство построения алгоритмов, которые извлекают знания из данных.]([https://www.ozon.ru/product/mashinnoe-obuchenie-nauka-i-iskusstvo-postroeniya-algoritmov-kotorye-izvlekayut-znaniya-iz-217048107/?asb=25p291gGS%252FCtwe%252FjizxZ40KhUIng1%252BGBJ65n1NckUP0%253D&asb2=5otbXtWhS5lFsWrW0EAE3EXSr9oplIybpDq8Xe7cGjA&keywords=Петер+флах&sh=qhGNMon5](https://disk.yandex.ru/i/8aNvet2s6XPcdA));
-- крайне желательно, тут есть отдельно про фичинг [Feature Engineering for Machine Learning](https://disk.yandex.ru/i/ctrcwtN5fLm43g));
-- иногда полезно [Python для сложных задач. Наука о данных и машинное обучение]([https://www.ozon.ru/product/python-dlya-slozhnyh-zadach-nauka-o-dannyh-i-mashinnoe-obuchenie-vander-plas-dzh-vander-plas-dzh-211433316/?asb=RLHzlRGua5YkFPAJXvXJVnjULjnWXB91zNevI1ifoTo%253D&asb2=OCzY9V__wKCDSWkOTl3Kofl1PeAaOqUGs4Z84jOQBPY&keywords=машинное+обучение+python&sh=w7vdSTr6](https://disk.yandex.ru/i/a_C1roQhG4Oumw);
+- необходимый математический минимум [Машинное обучение. Наука и искусство построения алгоритмов, которые извлекают знания из данных.]((https://disk.yandex.ru/i/8aNvet2s6XPcdA);
+- [крайне желательно, тут есть отдельно про фичинг](https://disk.yandex.ru/i/ctrcwtN5fLm43g);
+- иногда полезно [Python для сложных задач. Наука о данных и машинное обучение](https://disk.yandex.ru/i/a_C1roQhG4Oumw);
 - стоит посмотреть [Python и машинное обучение](https://disk.yandex.ru/i/JAdHR7H3PxrILA);
 - также может пригодится [Прикладное машинное обучение без учителя с использованием Python](https://www.ozon.ru/product/prikladnoe-mashinnoe-obuchenie-bez-uchitelya-s-ispolzovaniem-python-patel-ankur-277453373/?gclid=Cj0KCQjwm9yJBhDTARIsABKIcGYbvMlfmKeCH8EdbjXGJk_SHNtsaNkDzZjNbIYQisYUAN9zKIGCCyIaAihQEALw_wcB&sh=L01CMB1l&utm_campaign=RF_Product_Shopping_Books_normal&utm_medium=cpc&utm_source=google);
 - может пригодится [Практический анализ временных рядов. Прогнозирование со статистикой и машинное обучение](https://disk.yandex.ru/i/2vOWU-yu1FsfoA).
