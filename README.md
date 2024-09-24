@@ -9,9 +9,9 @@
 - [Курс Е. Соколова, ВШЭ](https://github.com/esokolov/ml-course-hse)
 - [Видеокурс Р. Нейчева на YouTube](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZeq93ssEUaR47xhvs7IhJM)
 - [Школа глубокого обучения МФТИ на Степике](https://stepik.org/org/dlschool)
-  - (https://t.me/deep_learning_school_news)
-  - (https://www.dlschool.org)
-  - (https://vk.com/dlschool_mipt)
+  - https://t.me/deep_learning_school_news
+  - https://www.dlschool.org
+  - https://vk.com/dlschool_mipt
 - [Open Machine Learning Course Y. Kashnitsky](https://mlcourse.ai/book/index.html)
 - [Курс К. Шилина, РАНХиГС](https://github.com/kshilin/machine-learning)
 
